@@ -1,12 +1,17 @@
 # prj-x9
 
-Personal notes.
+LLM 大型代碼庫修改與維護研究整合分析（private）。
 
 ## Files
-- `index.html` — online viewer (5 MB, requires internet for React/marked CDN)
-- `offline.html` — offline-capable single file (8.7 MB, all libs inlined)
+- `index.html` — 5-tab 整合視圖（策略地圖、641 篇分類、498 anchor refs、引用統計、方法論）
+- `offline.html` — 舊版（保留作歷史；26 篇 A/B/C/D 分類）
+- `robots.txt` — noindex
 
-Download:
-```
-curl -O https://simon99.github.io/prj-x9/offline.html
-```
+## 內容範圍
+- 641 篇分析論文（v3）
+- 498 anchor refs
+- 50 sub-strategies
+- 整合策略地圖、跨論文引用、研究方法論
+
+## 主題 repo
+https://github.com/Simon99/sapphire-2026-05-22-llm-codebase
